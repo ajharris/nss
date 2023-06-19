@@ -22,7 +22,6 @@ function App() {
             <Route path='/dashboard' element={<Dashboard/>}/>
             <Route path='/preferences' element={<Preferences/>}/>
           </Routes>
-
         </BrowserRouter>
       </div>
 
