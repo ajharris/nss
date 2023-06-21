@@ -205,3 +205,12 @@ sketch
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+*.pyc
+app.db
+./tmp
+./build/*
+.idea
+env
+venv
+*.sublime*
